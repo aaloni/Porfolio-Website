@@ -2,6 +2,8 @@ Abdullah Almutairi Portfolio
 
 First Udacity nano degree project “Portfolio webpage”.
 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 Technology  used:
 
 HTML
@@ -16,6 +18,8 @@ ReadMe  file    (https://dillinger.io)
 
 Logo    creater (   https://logojoy.com )
 
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Developed by Abdullah Almutairi
 
