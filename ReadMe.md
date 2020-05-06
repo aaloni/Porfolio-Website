@@ -28,5 +28,3 @@ Front End Developer
 Udacity Nano Degree
 
 2019
-
-Note: The domain (www.abdullahaloni.com) are not active since May 2019.
